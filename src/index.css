@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.heroImage{
+    transform: rotate(27deg);
+}
