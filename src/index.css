@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-.heroImage{
+
+@media (min-width: 1024px) {
+    .heroImage{
     transform: rotate(27deg);
+}
 }
