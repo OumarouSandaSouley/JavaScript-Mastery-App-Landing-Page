@@ -21,7 +21,7 @@ const  CallToAction=()=> {
             />
           </a>
           <a
-            href="https://expo.dev/artifacts/eas/mPL9JLmXALPbYd1QvVaWPz.apk"
+            href="https://expo.dev/artifacts/eas/698pMzRgbYH1KnDDJY7bns.apk"
             className="group bg-white text-blue-600 px-6 py-3 rounded-full flex items-center hover:bg-blue-100 transition duration-300 transform hover:scale-105"
           >
             <Download size={20} className="mr-2" />
